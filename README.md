@@ -834,7 +834,6 @@ git push origin v0.2.0
 
 > Если вы обнаружили ошибку в этом тексте — сообщите пожалуйста автору!
 
-<img width="1277" height="67" alt="изображение" src="https://github.com/user-attachments/assets/8622a05b-f2c4-4fc1-afae-f75a0a9e2d50" />
+![alt text](image.png)
 
-<img width="620" height="400" alt="изображение" src="https://github.com/user-attachments/assets/04e9f0d8-4a75-4a20-a5f4-ac0ae72b3fe7" />
-
+![alt text](image-1.png)
